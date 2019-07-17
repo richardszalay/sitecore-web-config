@@ -22,6 +22,7 @@ Follow the links below to see the differences that need to be applied based on t
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u0-160729...8.2u6-171121">8.2.6</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u0-160729...9.0u0-171002">9.0.0</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u0-160729...9.0u1-171219">9.0.1</a></td>
+            <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u0-160729...9.1u1-002459">9.1.1</a></td>
         </tr>
         <tr>
             <th>8.2.1</th>
@@ -33,6 +34,7 @@ Follow the links below to see the differences that need to be applied based on t
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u1-161115...8.2u6-171121">8.2.6</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u1-161115...9.0u0-171002">9.0.0</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u1-161115...9.0u1-171219">9.0.1</a></td>
+            <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u1-161115...9.1u1-002459">9.1.1</a></td>
         </tr>
         <tr>
             <th>8.2.2</th>
@@ -44,6 +46,7 @@ Follow the links below to see the differences that need to be applied based on t
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u2-161221...8.2u6-171121">8.2.6</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u2-161221...9.0u0-171002">9.0.0</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u2-161221...9.0u1-171219">9.0.1</a></td>
+            <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u2-161221...9.1u1-002459">9.1.1</a></td>
         </tr>
         <tr>
             <th>8.2.3</th>
@@ -55,6 +58,7 @@ Follow the links below to see the differences that need to be applied based on t
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u3-170407...8.2u6-171121">8.2.6</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u3-170407...9.0u0-171002">9.0.0</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u3-170407...9.0u1-171219">9.0.1</a></td>
+            <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u3-170407...9.1u1-002459">9.1.1</a></td>
         </tr>
         <tr>
             <th>8.2.4</th>
@@ -66,6 +70,7 @@ Follow the links below to see the differences that need to be applied based on t
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u4-170614...8.2u6-171121">8.2.6</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u4-170614...9.0u0-171002">9.0.0</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u4-170614...9.0u1-171219">9.0.1</a></td>
+            <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u4-170614...9.1u1-002459">9.1.1</a></td>
         </tr>
         <tr>
             <th>8.2.5</th>
@@ -77,6 +82,7 @@ Follow the links below to see the differences that need to be applied based on t
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u5-170728...8.2u6-171121">8.2.6</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u5-170728...9.0u0-171002">9.0.0</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u5-170728...9.0u1-171219">9.0.1</a></td>
+            <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u5-170728...9.1u1-002459">9.1.1</a></td>
         </tr>
         <tr>
             <th>8.2.6</th>
@@ -88,6 +94,7 @@ Follow the links below to see the differences that need to be applied based on t
             <td></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u6-171121...9.0u0-171002">9.0.0</a></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u6-171121...9.0u1-171219">9.0.1</a></td>
+            <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/8.2u6-171121...9.1u1-002459">9.1.1</a></td>
         </tr>
         <tr>
             <th>9.0.0</th>
@@ -99,6 +106,19 @@ Follow the links below to see the differences that need to be applied based on t
             <td></td>
             <td></td>
             <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/9.0u0-171002...9.0u1-171219">9.0.1</a></td>
+            <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/9.0u0-171002...9.1u1-002459">9.1.1</a></td>
+        </tr>
+        <tr>
+            <th>9.0.1</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://github.com/richardszalay/sitecore-web-config/compare/9.0u1-171219...9.1u1-002459">9.1.1</a></td>
         </tr>
     </tbody>
 </table>
